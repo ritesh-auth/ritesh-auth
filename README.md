@@ -53,6 +53,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ritesh-auth&style=flat-square&color=brightgreen)
 
-*Creating innvoation @ its finest !*
+*Creating innovation @ its finest !*
 
 </div>
