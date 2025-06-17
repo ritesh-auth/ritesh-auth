@@ -52,30 +52,30 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh-auth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ritesh-auth]&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-auth&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-auth&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ritesh-auth&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ## 🔥 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[ritesh-auth]&repo=[Repository1]&theme=tokyonight)](https://github.com/[YourUsername]/[Repository1])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[ritesh-auth]&repo=[Repository2]&theme=tokyonight)](https://github.com/[YourUsername]/[Repository2])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritesh-auth&repo=[Repository1]&theme=tokyonight)](https://github.com/[YourUsername]/[Repository1])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritesh-auth&repo=[Repository2]&theme=tokyonight)](https://github.com/[YourUsername]/[Repository2])
 
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[ritesh-auth]&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-auth&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ## 🌐 Connect with Me
