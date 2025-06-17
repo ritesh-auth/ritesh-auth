@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology you're learning]**
+- 🔭 I'm currently working on **[create something new]**
+- 🌱 I'm currently learning **[Core ML]**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 How to reach me: **[ritesh@ritesh.info]**
+- ⚡ Fun fact: **[hahahaha]**
 
 ## 🛠️ Tech Stack
 
