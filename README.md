@@ -34,14 +34,14 @@
 
 | Project | Tech Stack | Stats |
 |---------|------------|-------|
-| **Foodies Backend** | React, Node.js, PostgreSQL | ![Stars](https://img.shields.io/github/stars/ritesh-auth/fd-backend?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/ritesh-auth/fd-backend?style=flat-square&color=gray) |
-| **Filler Words Analysis** | Python, FastAPI, MongoDB | ![Stars](https://img.shields.io/github/stars/ritesh-auth/filler-word-analysis?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/ritesh-auth/filler-word-analysis?style=flat-square&color=gray) |
+| **Foodies Backend** | Python, FastApi, PostgreSQL | ![Stars](https://img.shields.io/github/stars/ritesh-auth/fd-backend?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/ritesh-auth/fd-backend?style=flat-square&color=gray) |
+| **Filler Words Analysis** | Python, Bag-of-words, BERT | ![Stars](https://img.shields.io/github/stars/ritesh-auth/filler-word-analysis?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/ritesh-auth/filler-word-analysis?style=flat-square&color=gray) |
 
 ## 📫 Contact
 
 **Email:** ritesh@ritesh.info 
 **LinkedIn:** (https://www.linkedin.com/in/ritesh-yadav-auth/)
-**Portfolio:** [ritesh.info
+**Portfolio:** ritesh.info
 
 ---
 
