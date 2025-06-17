@@ -1,6 +1,6 @@
-# [Your Name]
+# Ritesh Yadav  
 
-**Software Developer** | **Data Enthusiast** | **Problem Solver**
+**Machine Learning Engineer** | **Back End Engineer** | **Problem Solver**
 
 ---
 
@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh-auth&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-auth&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritesh-auth&theme=dark&hide_border=true)
 
 </div>
 
@@ -34,22 +34,21 @@
 
 | Project | Tech Stack | Stats |
 |---------|------------|-------|
-| **[Project Name 1]** | React, Node.js, PostgreSQL | ![Stars](https://img.shields.io/github/stars/[YourUsername]/[repo1]?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/[YourUsername]/[repo1]?style=flat-square&color=gray) |
-| **[Project Name 2]** | Python, FastAPI, MongoDB | ![Stars](https://img.shields.io/github/stars/[YourUsername]/[repo2]?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/[YourUsername]/[repo2]?style=flat-square&color=gray) |
-| **[Project Name 3]** | TypeScript, Next.js, Redis | ![Stars](https://img.shields.io/github/stars/[YourUsername]/[repo3]?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/[YourUsername]/[repo3]?style=flat-square&color=gray) |
+| **Foodies Backend** | React, Node.js, PostgreSQL | ![Stars](https://img.shields.io/github/stars/ritesh-auth/fd-backend?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/ritesh-auth/fd-backend?style=flat-square&color=gray) |
+| **Filler Words Analysis** | Python, FastAPI, MongoDB | ![Stars](https://img.shields.io/github/stars/ritesh-auth/filler-word-analysis?style=flat-square&color=white) ![Forks](https://img.shields.io/github/forks/ritesh-auth/filler-word-analysis?style=flat-square&color=gray) |
 
 ## 📫 Contact
 
-**Email:** [your.email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile]  
-**Portfolio:** [yourwebsite.com]  
+**Email:** ritesh@ritesh.info 
+**LinkedIn:** (https://www.linkedin.com/in/ritesh-yadav-auth/)
+**Portfolio:** [ritesh.info
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YourUsername]&style=flat-square&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=ritesh-auth&style=flat-square&color=brightgreen)
 
-*Building solutions through code and data*
+*Creating Solutions*
 
 </div>
