@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm [Ritesh Yadav]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Machine Learning Engineer;Back-end Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -26,7 +26,6 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -52,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ritesh-auth]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ritesh-auth]&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -69,24 +68,23 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repository1]&theme=tokyonight)](https://github.com/[YourUsername]/[Repository1])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[Repository2]&theme=tokyonight)](https://github.com/[YourUsername]/[Repository2])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[ritesh-auth]&repo=[Repository1]&theme=tokyonight)](https://github.com/[YourUsername]/[Repository1])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[ritesh-auth]&repo=[Repository2]&theme=tokyonight)](https://github.com/[YourUsername]/[Repository2])
 
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[ritesh-auth]&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YourLinkedInURL])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([YourTwitterURL])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([YourPortfolioURL])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your.email@example.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ritesh-yadav-auth])
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([ritesh.info])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ritesh@ritesh.info])
 
 </div>
 
