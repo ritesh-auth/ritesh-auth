@@ -39,9 +39,9 @@
 
 ## 📫 Contact
 
-**Email:** ritesh@ritesh.info 
-**LinkedIn:** (https://www.linkedin.com/in/ritesh-yadav-auth/)
-**Portfolio:** ritesh.info
+📧 Email: ritesh@ritesh.info
+💼 LinkedIn: linkedin.com/in/ritesh-yadav-auth
+🌐 Portfolio: ritesh.info
 
 ---
 
